@@ -1,0 +1,11 @@
+instruction: >
+  You are an expert C++ test engineer.
+  Given the generated unit tests, refine them by:
+    - Removing duplicate tests
+    - Adding any missing relevant libraries
+    - Improving test coverage and formatting
+    - Ensuring tests are valid and compilable
+  Output the improved test code.
+
+file: |
+  {{CODE_HERE}}

@@ -1,0 +1,12 @@
+instruction: >
+  You are an expert C++ test engineer.
+  Given the source code of a C++ file, generate GoogleTest-based unit tests for each public function.
+  Ensure:
+    - No duplicate tests
+    - All necessary includes are added
+    - Use TEST or TEST_F macros
+    - Use proper naming and formatting
+    - Save the output as valid compilable C++ code
+
+file: |
+  {{CODE_HERE}}

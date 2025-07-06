@@ -1,0 +1,19 @@
+Start testing: Jul 06 13:57 IST
+----------------------------------------------------------
+1/1 Testing: OrgChartTests
+1/1 Test: OrgChartTests
+Command: "/home/shravan/cpp-test-generator/build/runTests"
+Directory: /home/shravan/cpp-test-generator/build
+"OrgChartTests" start time: Jul 06 13:57 IST
+Output:
+----------------------------------------------------------
+/home/shravan/cpp-test-generator/build/runTests: /home/shravan/anaconda3/lib/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /home/shravan/cpp-test-generator/build/runTests)
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"OrgChartTests" end time: Jul 06 13:57 IST
+"OrgChartTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 06 13:57 IST

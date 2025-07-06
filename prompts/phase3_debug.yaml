@@ -1,0 +1,11 @@
+instruction: >
+  You are an expert C++ test engineer.
+  The build has failed with the following errors:
+  {{CODE_HERE}}
+  Please analyze the errors and the current test code.
+  Fix the build issues by correcting the test code.
+  Remove duplicates, fix includes, and ensure the tests compile and run.
+  Output the corrected test code.
+
+file: |
+  {{CODE_HERE}}
